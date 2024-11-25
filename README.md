@@ -2,7 +2,7 @@
 # Smart Contract: Require, Assert, and Revert
 
 ## Description
-This Solidity smart contract demonstrates the use of `require()`, `assert()`, and `revert()` statements. Each statement is utilized in specific functions to handle validations, enforce internal invariants, and handle errors with meaningful messages.
+This Solidity demonstrates the use of `require()`, `assert()`, and `revert()` statements. Each statement is utilized in specific functions to handle validations, enforce internal invariants, and handle errors with meaningful messages.
 
 ## Features
 1. **Deposit Function (`require`)**: Validates input and ensures funds are sent correctly.
@@ -24,6 +24,6 @@ This Solidity smart contract demonstrates the use of `require()`, `assert()`, an
 
 ## Setup Instructions
 1. Clone this repository: `git clone <repo-url>`
-2. Open the contract in Remix (https://remix.ethereum.org/).
+2. Open in Remix (https://remix.ethereum.org/).
 3. Deploy the contract on the Ethereum test network or local environment.
 4. Interact with the contract using the provided functions.
